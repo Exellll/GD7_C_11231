@@ -97,6 +97,11 @@
                     <p>GET THE TICKETS</p>
                 </div>
             </a>
+            <a href="{{ url('/merchandise') }}" class="header-option">
+                <div>
+                    <p>MERCHANDISE</p>
+                </div>
+            </a>
         </div>
     </div>
     <div class="container">
